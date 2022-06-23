@@ -1,0 +1,41 @@
+image to html
+-------------
+section define - 5
+layout define -
+
+
+ui=user interface ux=user expariance
+	color com..-subject-logo-full-2/3
+
+
+asset gather
+		image
+		icone
+		font file
+		text
+		fav -32/32, 48/48
+
+img color:
+sky: #008aff
+navy blue: #0f2656
+
+
+menu text:Overviews
+Landings
+Pages Apps
+
+
+
+font text: light/300
+regular:/400
+bold:/700
+
+
+
+img color:
+		sky: #008aff
+		navy blue: #0f2656
+		red: #f15767
+
+
+
