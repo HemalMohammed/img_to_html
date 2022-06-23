@@ -65,6 +65,32 @@ nav ul li a{
 	text-align: center;
         display: block;
 }
+  /*edit start*/
+   .project {
+    width: 200px;
+    margin-left: 350px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: right;
+}
+ span {
+    color: rgb(241, 90, 107);
+    font-size: 30px;
+    font-weight: bold;
+}
+ .div2 {
+    width: 250px;
+    margin-right: 300px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+ 	.amount {
+    color: rgb(58, 78, 117);
+    font-size: 30px;
+    font-weight: bold;
+}
+  /*edit end*/
 .container{
 	text-align: center;
 	color:#f15767 ;
